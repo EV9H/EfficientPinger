@@ -5,25 +5,38 @@ from datetime import datetime
 import asyncio
 import aiohttp
 
+# TEST
+BAD_SITES = []
 
-ADDR_sample = ['https://www.google.com','https://www.amazon.com', 'https://www.bing.com' ]
 
+class URL:
+    def __init__(self, address):
+        self.address = address
+        self.avg = None   
+        self.ping_list = []
+    def get_avg_ping(self):
+        if(len(self.ping_list)> 0):
+            return( sum(self.ping_list) / len(self.ping_list))
+        return 0 
+    def __str__(self) -> str:
+        return self.address
+        
 class Pinger:
     URL_LIST = []
     def __init__(self):
         self.START = False
     
-    def add_URL(self, input):
-        self.URL_LIST.append(self.URL(input))
-    def add_URL_list(self, l):
-        for i in l:
-            self.URL_LIST.append(self.URL(i))
-    def get_URL_LIST(self):
-        return self.URL_LIST
-    def print_URL_LIST(self):
-        for l in self.URL_LIST:
-            print(l)
-    
+    # def add_URL(self, input):
+    #     self.URL_LIST.append(self.URL(input))
+    # def add_URL_list(self, l):
+    #     for i in l:
+    #         self.URL_LIST.append(self.URL(i))
+    # def get_URL_LIST(self):
+    #     return self.URL_LIST
+    # def print_URL_LIST(self):
+    #     for l in self.URL_LIST:
+    #         print(l)
+    '''
     def ping(self, URL, timeout = 1):
         response = requests.get(URL.address, timeout = timeout)
         return response
@@ -76,22 +89,29 @@ class Pinger:
         for u in self.URL_LIST:
             report += f"{u} avg: {u.get_avg_ping():4.2f} \n"
         print(report)
+    '''
+   
 
-    async def get(self,url, session):
+    async def get(self,url, session, fetch_timeout = 3):
+        t_0 = time.monotonic()
         try: 
-            t_0 = time.monotonic()
-            async with session.get(url = url.address) as response:
-                res = await response.release()
+            
+            async with session.get(url = "http://" + url.address, allow_redirects=True,timeout = fetch_timeout) as response:
+                await response.release()
             response_time = time.monotonic() - t_0
             url.ping_list.append(response_time) 
             print(f'{str(url):40s} | response_time = {response_time*1000:4.0f}ms | avg:{url.get_avg_ping() * 1000:4.0f}ms')
-            return res
+            
         except Exception as e:
-            print(str(e))
-            
-            
-    async def main(self,urls, wait):
-        async with aiohttp.ClientSession() as session:
+            # print("ERROR:", e)
+            #print(f'{str(url):40s} | Error Message: {e}')
+            BAD_SITES.append(url.address)
+            pass
+       
+                    
+    async def main(self,urls, wait, timout_seconds = 3):
+        session_timeout = aiohttp.ClientTimeout(total=None,sock_connect= timout_seconds,sock_read=timout_seconds)
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False), timeout = session_timeout) as session:
             tasks = []
             for url in urls:
                 tasks.append(
@@ -103,43 +123,61 @@ class Pinger:
             
             # ret = await asyncio.gather(*[self.get(url, session) for url in urls])
     
-    def begin(self, loop = 10, wait = 1):
+    def begin(self, urls, loop = 10, wait = 1):
         for i in range(loop):
-            asyncio.run(self.main(self.URL_LIST, wait))
+            asyncio.run(self.main(urls, wait))
             print(' ----- ')
         now = datetime.now().strftime("%H:%M:%S")
+        
+        # console report
         report = f"========= REPORT (finished on {now}) =========\n"
-        for u in self.URL_LIST:
-            report += (f"{str(u):40s} average response time: {u.get_avg_ping()*1000:4.0f}ms \n")
+        for u in urls:
+            if(u.address not in BAD_SITES):
+                report += (f"{str(u):40s} average response time: {u.get_avg_ping()*1000:4.0f}ms \n")
         print(report)
+        
+        # txt report  
+        with open("report.txt",'w') as f:        
+            for u in urls:
+                if(u.get_avg_ping() == 0):
+                    f.write(f"{str(u):40s} average response time: X \n")
+                else:
+                    f.write(f"{str(u):40s} average response time: {u.get_avg_ping()*1000:4.0f}  ms \n")
+                
             
-    class URL:
-        def __init__(self, address):
-            self.address = address
-            self.avg = None   
-            self.ping_list = []
-        def get_avg_ping(self):
-            if(len(self.ping_list)> 0):
-                return( sum(self.ping_list) / len(self.ping_list))
-            return 0 
-        def __str__(self) -> str:
-            return self.address
+    
         
 
             
 PINGER = Pinger()
-PINGER.add_URL_list(ADDR_sample)
+# PINGER.add_URL_list(ADDR_sample)
 # PINGER.print_URL_LIST()
 
 #PINGER.start(tries= 5, delay = 0.1, mode = "not-show")
 
 #PINGER.start(tries= 5, delay = 0.1, mode = "show")
 
-urls = PINGER.URL_LIST
+# urls = PINGER.URL_LIST
 
-# start = time.time()
+    # start = time.time()
 # asyncio.run(PINGER.main(urls))
 # end = time.time()
 # print("Took {} seconds to pull {} websites.".format(end - start, len(urls)))
 
-PINGER.begin(wait = 0.2)
+
+
+
+#ADDR_sample = ['https://www.google.com','https://www.amazon.com', 'https://www.bing.com' ]
+
+urls = []
+
+with open('urls.txt', 'r') as f:
+    urls_list = f.read().split("\n")
+    URLS = [URL(u) for u in urls_list]
+
+PINGER.begin(urls = URLS, loop = 1, wait = 0)
+
+
+## TEST 
+
+# print(BAD_SITES)

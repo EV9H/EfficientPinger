@@ -1,0 +1,500 @@
+www.google.com                           average response time: 250  ms 
+www.blogger.com                          average response time: 2422  ms 
+youtube.com                              average response time: 719  ms 
+linkedin.com                             average response time: 1078  ms 
+apple.com                                average response time: 438  ms 
+support.google.com                       average response time: 532  ms 
+play.google.com                          average response time: X 
+microsoft.com                            average response time: 1813  ms 
+cloudflare.com                           average response time: 2000  ms 
+maps.google.com                          average response time: 2641  ms 
+docs.google.com                          average response time: X 
+youtu.be                                 average response time: 1047  ms 
+en.wikipedia.org                         average response time: 985  ms 
+whatsapp.com                             average response time: 891  ms 
+wordpress.org                            average response time: 1282  ms 
+mozilla.org                              average response time: 2000  ms 
+sites.google.com                         average response time: X 
+bp.blogspot.com                          average response time: X 
+googleusercontent.com                    average response time: X 
+accounts.google.com                      average response time: X 
+europa.eu                                average response time: 2485  ms 
+adobe.com                                average response time: 969  ms 
+drive.google.com                         average response time: X 
+plus.google.com                          average response time: X 
+policies.google.com                      average response time: 641  ms 
+github.com                               average response time: 391  ms 
+vk.com                                   average response time: 2235  ms 
+vimeo.com                                average response time: 1797  ms 
+amazon.com                               average response time: 2844  ms 
+uol.com.br                               average response time: 985  ms 
+facebook.com                             average response time: 1766  ms 
+t.me                                     average response time: 1219  ms 
+istockphoto.com                          average response time: 891  ms 
+search.google.com                        average response time: 1328  ms 
+pt.wikipedia.org                         average response time: 750  ms 
+news.google.com                          average response time: 2844  ms 
+brandbucket.com                          average response time: 188  ms 
+creativecommons.org                      average response time: 1578  ms 
+wikimedia.org                            average response time: 641  ms 
+who.int                                  average response time: 610  ms 
+bbc.co.uk                                average response time: 2782  ms 
+imdb.com                                 average response time: 2703  ms 
+dailymotion.com                          average response time: 1297  ms 
+google.es                                average response time: 2063  ms 
+fr.wikipedia.org                         average response time: 1094  ms 
+nih.gov                                  average response time: X 
+shopify.com                              average response time: 1703  ms 
+files.wordpress.com                      average response time: 1985  ms 
+netvibes.com                             average response time: 1563  ms 
+line.me                                  average response time: 2610  ms 
+google.de                                average response time: 594  ms 
+www.yahoo.com                            average response time: 547  ms 
+ok.ru                                    average response time: 2219  ms 
+nytimes.com                              average response time: 750  ms 
+msn.com                                  average response time: 1469  ms 
+gstatic.com                              average response time: 438  ms 
+mail.google.com                          average response time: X 
+opera.com                                average response time: 2594  ms 
+tiktok.com                               average response time: X 
+paypal.com                               average response time: 2547  ms 
+slideshare.net                           average response time: 828  ms 
+developers.google.com                    average response time: X 
+jimdofree.com                            average response time: 907  ms 
+live.com                                 average response time: 782  ms 
+google.com.br                            average response time: 516  ms 
+draft.blogger.com                        average response time: X 
+buydomains.com                           average response time: 235  ms 
+tools.google.com                         average response time: X 
+medium.com                               average response time: 2172  ms 
+google.co.jp                             average response time: 1063  ms 
+feedburner.com                           average response time: 485  ms 
+cnn.com                                  average response time: 1157  ms 
+theguardian.com                          average response time: 2625  ms 
+enable-javascript.com                    average response time: 2610  ms 
+www.weebly.com                           average response time: 1203  ms 
+myspace.com                              average response time: 1313  ms 
+globo.com                                average response time: X 
+forbes.com                               average response time: 2969  ms 
+es.wikipedia.org                         average response time: 719  ms 
+dropbox.com                              average response time: 2047  ms 
+gravatar.com                             average response time: 2032  ms 
+marketingplatform.google....             average response time: X 
+mirror.co.uk                             average response time: 735  ms 
+wp.com                                   average response time: 2094  ms 
+archive.org                              average response time: 485  ms 
+plesk.com                                average response time: 906  ms 
+amazon.es                                average response time: 1422  ms 
+namecheap.com                            average response time: 1297  ms 
+forms.gle                                average response time: 562  ms 
+reuters.com                              average response time: 2859  ms 
+booking.com                              average response time: 2859  ms 
+dan.com                                  average response time: 2250  ms 
+bbc.com                                  average response time: 1187  ms 
+nature.com                               average response time: X 
+storage.googleapis.com                   average response time: 375  ms 
+huffingtonpost.com                       average response time: 2391  ms 
+scribd.com                               average response time: 2000  ms 
+usatoday.com                             average response time: 766  ms 
+soundcloud.com                           average response time: 2375  ms 
+cpanel.net                               average response time: 1484  ms 
+google.pl                                average response time: 1422  ms 
+independent.co.uk                        average response time: 2953  ms 
+issuu.com                                average response time: 969  ms 
+ig.com.br                                average response time: 734  ms 
+abril.com.br                             average response time: X 
+twitter.com                              average response time: 2641  ms 
+networkadvertising.org                   average response time: 453  ms 
+businessinsider.com                      average response time: 2625  ms 
+estadao.com.br                           average response time: X 
+4shared.com                              average response time: X 
+amazon.co.uk                             average response time: X 
+office.com                               average response time: 1672  ms 
+cbsnews.com                              average response time: 2641  ms 
+pixabay.com                              average response time: 719  ms 
+foxnews.com                              average response time: 2953  ms 
+hugedomains.com                          average response time: X 
+tinyurl.com                              average response time: 2406  ms 
+w3.org                                   average response time: 1125  ms 
+cdc.gov                                  average response time: 2094  ms 
+domainmarket.com                         average response time: X 
+aliexpress.com                           average response time: X 
+photos.google.com                        average response time: X 
+myaccount.google.com                     average response time: X 
+amazon.de                                average response time: X 
+www.gov.uk                               average response time: 1172  ms 
+change.org                               average response time: X 
+telegram.me                              average response time: X 
+bloomberg.com                            average response time: 2328  ms 
+bing.com                                 average response time: 1719  ms 
+wa.me                                    average response time: 937  ms 
+indiatimes.com                           average response time: 1125  ms 
+huffpost.com                             average response time: X 
+get.google.com                           average response time: X 
+amazon.co.jp                             average response time: X 
+time.com                                 average response time: 1500  ms 
+webmd.com                                average response time: 2344  ms 
+samsung.com                              average response time: X 
+aboutads.info                            average response time: X 
+goo.gl                                   average response time: 2625  ms 
+adssettings.google.com                   average response time: X 
+cnet.com                                 average response time: 922  ms 
+nasa.gov                                 average response time: X 
+planalto.gov.br                          average response time: X 
+google.co.uk                             average response time: 1656  ms 
+thesun.co.uk                             average response time: 2234  ms 
+mail.ru                                  average response time: X 
+hatena.ne.jp                             average response time: 2766  ms 
+pinterest.com                            average response time: X 
+telegraph.co.uk                          average response time: X 
+mediafire.com                            average response time: 2344  ms 
+terra.com.br                             average response time: 1516  ms 
+wsj.com                                  average response time: 1141  ms 
+de.wikipedia.org                         average response time: 2937  ms 
+washingtonpost.com                       average response time: X 
+t.co                                     average response time: 1625  ms 
+fb.com                                   average response time: X 
+elmundo.es                               average response time: X 
+ytimg.com                                average response time: X 
+picasaweb.google.com                     average response time: X 
+bit.ly                                   average response time: 1125  ms 
+shutterstock.com                         average response time: X 
+dailymail.co.uk                          average response time: X 
+ru.wikipedia.org                         average response time: X 
+google.fr                                average response time: 2719  ms 
+news.yahoo.com                           average response time: 1937  ms 
+instagram.com                            average response time: 1266  ms 
+researchgate.net                         average response time: X 
+imageshack.us                            average response time: 1422  ms 
+google.it                                average response time: 875  ms 
+yadi.sk                                  average response time: X 
+fandom.com                               average response time: 2687  ms 
+elpais.com                               average response time: 1547  ms 
+youronlinechoices.com                    average response time: X 
+un.org                                   average response time: X 
+afternic.com                             average response time: 1437  ms 
+list-manage.com                          average response time: 2766  ms 
+academia.edu                             average response time: 2250  ms 
+ted.com                                  average response time: 1766  ms 
+www.livejournal.com                      average response time: X 
+google.ca                                average response time: 2922  ms 
+playstation.com                          average response time: X 
+berkeley.edu                             average response time: 1500  ms 
+www.over-blog.com                        average response time: 2500  ms 
+linktr.ee                                average response time: X 
+lemonde.fr                               average response time: 2828  ms 
+it.wikipedia.org                         average response time: 2969  ms 
+clarin.com                               average response time: 2766  ms 
+abcnews.go.com                           average response time: 2547  ms 
+ovh.com                                  average response time: X 
+smh.com.au                               average response time: 1500  ms 
+offset.com                               average response time: X 
+aol.com                                  average response time: 2641  ms 
+finance.yahoo.com                        average response time: 2453  ms 
+groups.google.com                        average response time: X 
+canada.ca                                average response time: 2203  ms 
+engadget.com                             average response time: 2078  ms 
+e-monsite.com                            average response time: X 
+sciencedirect.com                        average response time: 2141  ms 
+ouest-france.fr                          average response time: 2687  ms 
+akamaihd.net                             average response time: X 
+mit.edu                                  average response time: X 
+zippyshare.com                           average response time: 2891  ms 
+freepik.com                              average response time: 1031  ms 
+wired.com                                average response time: 2984  ms 
+instructables.com                        average response time: 1469  ms 
+rapidshare.com                           average response time: X 
+doi.org                                  average response time: 1953  ms 
+yandex.com                               average response time: 2719  ms 
+naver.com                                average response time: X 
+doubleclick.net                          average response time: 859  ms 
+steampowered.com                         average response time: X 
+gooyaabitemplates.com                    average response time: 1453  ms 
+statista.com                             average response time: X 
+abc.es                                   average response time: 2219  ms 
+espn.com                                 average response time: 2594  ms 
+alexa.com                                average response time: 2078  ms 
+ft.com                                   average response time: 1391  ms 
+alicdn.com                               average response time: X 
+mashable.com                             average response time: 1219  ms 
+cpanel.com                               average response time: X 
+gofundme.com                             average response time: 1672  ms 
+cornell.edu                              average response time: X 
+latimes.com                              average response time: 2469  ms 
+timeweb.ru                               average response time: 2078  ms 
+spiegel.de                               average response time: 2703  ms 
+20minutos.es                             average response time: X 
+whitehouse.gov                           average response time: 2984  ms 
+nationalgeographic.com                   average response time: 1297  ms 
+translate.google.com                     average response time: 2984  ms 
+metro.co.uk                              average response time: 844  ms 
+target.com                               average response time: X 
+prezi.com                                average response time: 2562  ms 
+ca.gov                                   average response time: 2547  ms 
+nikkei.com                               average response time: 1609  ms 
+000webhost.com                           average response time: 828  ms 
+springer.com                             average response time: 2625  ms 
+huawei.com                               average response time: 2750  ms 
+sfgate.com                               average response time: 2828  ms 
+cambridge.org                            average response time: 1156  ms 
+ea.com                                   average response time: 1797  ms 
+taringa.net                              average response time: X 
+ikea.com                                 average response time: 2172  ms 
+pinterest.fr                             average response time: 2234  ms 
+qq.com                                   average response time: 2406  ms 
+www.wikipedia.org                        average response time: 656  ms 
+akamaized.net                            average response time: X 
+amazonaws.com                            average response time: X 
+cointernet.com.co                        average response time: 1219  ms 
+www.canalblog.com                        average response time: 1156  ms 
+economist.com                            average response time: 1984  ms 
+photobucket.com                          average response time: 1625  ms 
+vice.com                                 average response time: 2078  ms 
+thetimes.co.uk                           average response time: X 
+redbull.com                              average response time: X 
+gmail.com                                average response time: X 
+ovh.net                                  average response time: X 
+sapo.pt                                  average response time: X 
+netlify.app                              average response time: 1265  ms 
+google.co.in                             average response time: 1562  ms 
+newsweek.com                             average response time: 1484  ms 
+bp2.blogger.com                          average response time: 515  ms 
+lavanguardia.com                         average response time: X 
+id.wikipedia.org                         average response time: 1578  ms 
+mozilla.com                              average response time: X 
+hindustantimes.com                       average response time: 765  ms 
+wikia.com                                average response time: 921  ms 
+nypost.com                               average response time: 1843  ms 
+goodreads.com                            average response time: 875  ms 
+weibo.com                                average response time: X 
+ibm.com                                  average response time: X 
+theatlantic.com                          average response time: 2296  ms 
+gizmodo.com                              average response time: 656  ms 
+quora.com                                average response time: 1578  ms 
+unsplash.com                             average response time: 1078  ms 
+detik.com                                average response time: X 
+discord.com                              average response time: 1781  ms 
+code.google.com                          average response time: 703  ms 
+addtoany.com                             average response time: 2750  ms 
+www.gov.br                               average response time: 2531  ms 
+pexels.com                               average response time: 2718  ms 
+dw.com                                   average response time: 2531  ms 
+sputniknews.com                          average response time: 2640  ms 
+yandex.ru                                average response time: 2890  ms 
+nydailynews.com                          average response time: X 
+nbcnews.com                              average response time: 1328  ms 
+windows.net                              average response time: X 
+insider.com                              average response time: 1078  ms 
+sciencedaily.com                         average response time: 1343  ms 
+amzn.to                                  average response time: 2937  ms 
+ggpht.com                                average response time: X 
+privacyshield.gov                        average response time: 1546  ms 
+android.com                              average response time: X 
+sakura.ne.jp                             average response time: X 
+amazon.it                                average response time: 1609  ms 
+leparisien.fr                            average response time: 1515  ms 
+books.google.com                         average response time: 1750  ms 
+rtve.es                                  average response time: X 
+sedo.com                                 average response time: X 
+ziddu.com                                average response time: X 
+bloglovin.com                            average response time: 1187  ms 
+urbandictionary.com                      average response time: 2187  ms 
+icann.org                                average response time: 1156  ms 
+rakuten.co.jp                            average response time: X 
+pbs.org                                  average response time: 2125  ms 
+xbox.com                                 average response time: X 
+plos.org                                 average response time: 2234  ms 
+hubspot.com                              average response time: 1125  ms 
+apache.org                               average response time: 1828  ms 
+google.nl                                average response time: 1421  ms 
+spotify.com                              average response time: 2156  ms 
+cnil.fr                                  average response time: 2921  ms 
+cbc.ca                                   average response time: 2875  ms 
+kickstarter.com                          average response time: 1796  ms 
+rt.com                                   average response time: X 
+npr.org                                  average response time: X 
+tripadvisor.com                          average response time: X 
+nginx.com                                average response time: 906  ms 
+oracle.com                               average response time: X 
+outlook.com                              average response time: 2859  ms 
+cnbc.com                                 average response time: X 
+addthis.com                              average response time: 1437  ms 
+ovhcloud.com                             average response time: X 
+liveinternet.ru                          average response time: 2062  ms 
+yahoo.co.jp                              average response time: X 
+wiley.com                                average response time: 2531  ms 
+wiktionary.org                           average response time: 2671  ms 
+britannica.com                           average response time: 1593  ms 
+godaddy.com                              average response time: 1703  ms 
+newyorker.com                            average response time: 2031  ms 
+buzzfeed.com                             average response time: X 
+techcrunch.com                           average response time: 1953  ms 
+nginx.org                                average response time: 1562  ms 
+xing.com                                 average response time: 1796  ms 
+zoom.us                                  average response time: 2906  ms 
+ebay.com                                 average response time: X 
+home.pl                                  average response time: 2281  ms 
+photos1.blogger.com                      average response time: 953  ms 
+secureserver.net                         average response time: 2015  ms 
+hp.com                                   average response time: X 
+ietf.org                                 average response time: 2343  ms 
+sendspace.com                            average response time: 2703  ms 
+webnode.page                             average response time: X 
+oup.com                                  average response time: 2281  ms 
+surveymonkey.com                         average response time: 1281  ms 
+tmz.com                                  average response time: 2093  ms 
+express.co.uk                            average response time: 2265  ms 
+m.wikipedia.org                          average response time: 2562  ms 
+bandcamp.com                             average response time: 2328  ms 
+ssl-images-amazon.com                    average response time: X 
+zendesk.com                              average response time: 2531  ms 
+guardian.co.uk                           average response time: X 
+ja.wikipedia.org                         average response time: X 
+walmart.com                              average response time: X 
+abc.net.au                               average response time: 625  ms 
+ria.ru                                   average response time: X 
+dreamstime.com                           average response time: 1765  ms 
+clickbank.net                            average response time: X 
+biglobe.ne.jp                            average response time: 2312  ms 
+google.ru                                average response time: 2421  ms 
+calendar.google.com                      average response time: X 
+twitch.tv                                average response time: 1671  ms 
+francetvinfo.fr                          average response time: 843  ms 
+gnu.org                                  average response time: 546  ms 
+rambler.ru                               average response time: X 
+psychologytoday.com                      average response time: 2593  ms 
+ftc.gov                                  average response time: X 
+stanford.edu                             average response time: X 
+harvard.edu                              average response time: 2000  ms 
+wikihow.com                              average response time: X 
+eventbrite.com                           average response time: 2515  ms 
+disney.com                               average response time: 1234  ms 
+sky.com                                  average response time: 1062  ms 
+googleblog.com                           average response time: 1359  ms 
+ipv4.google.com                          average response time: 1640  ms 
+thenai.org                               average response time: 2953  ms 
+welt.de                                  average response time: X 
+vkontakte.ru                             average response time: X 
+skype.com                                average response time: X 
+www.wix.com                              average response time: 1218  ms 
+radiofrance.fr                           average response time: X 
+disqus.com                               average response time: X 
+loc.gov                                  average response time: 812  ms 
+pl.wikipedia.org                         average response time: X 
+variety.com                              average response time: 1484  ms 
+php.net                                  average response time: X 
+theverge.com                             average response time: 1359  ms 
+yelp.com                                 average response time: 2750  ms 
+amazon.fr                                average response time: 2265  ms 
+search.yahoo.com                         average response time: 843  ms 
+netflix.com                              average response time: 2781  ms 
+about.com                                average response time: 1968  ms 
+discord.gg                               average response time: 2156  ms 
+deezer.com                               average response time: 1421  ms 
+unesco.org                               average response time: 1093  ms 
+imageshack.com                           average response time: 984  ms 
+arxiv.org                                average response time: X 
+themeforest.net                          average response time: 1046  ms 
+alibaba.com                              average response time: X 
+fb.me                                    average response time: 2687  ms 
+picasa.google.com                        average response time: 1093  ms 
+reg.ru                                   average response time: X 
+mega.nz                                  average response time: X 
+usnews.com                               average response time: X 
+zdf.de                                   average response time: 2937  ms 
+lefigaro.fr                              average response time: 953  ms 
+iso.org                                  average response time: X 
+abc.com                                  average response time: 2562  ms 
+namesilo.com                             average response time: 2812  ms 
+thoughtco.com                            average response time: 1593  ms 
+billboard.com                            average response time: 2328  ms 
+hbr.org                                  average response time: 3000  ms 
+naver.jp                                 average response time: X 
+ucoz.ru                                  average response time: X 
+blog.fc2.com                             average response time: X 
+yale.edu                                 average response time: 2640  ms 
+focus.de                                 average response time: 1281  ms 
+lg.com                                   average response time: 1547  ms 
+ieee.org                                 average response time: X 
+qz.com                                   average response time: 2703  ms 
+sports.yahoo.com                         average response time: 922  ms 
+soratemplates.com                        average response time: X 
+namebright.com                           average response time: 1891  ms 
+evernote.com                             average response time: 1938  ms 
+redhat.com                               average response time: 2406  ms 
+news.com.au                              average response time: X 
+ap.org                                   average response time: X 
+typeform.com                             average response time: 1953  ms 
+repubblica.it                            average response time: 1781  ms 
+business.google.com                      average response time: X 
+biblegateway.com                         average response time: 1172  ms 
+indianexpress.com                        average response time: 2625  ms 
+usgs.gov                                 average response time: 2110  ms 
+fedoraproject.org                        average response time: X 
+unicef.org                               average response time: 688  ms 
+elsevier.com                             average response time: 2188  ms 
+cisco.com                                average response time: 2578  ms 
+groups.yahoo.com                         average response time: 2047  ms 
+amazon.ca                                average response time: X 
+last.fm                                  average response time: 2328  ms 
+dailystar.co.uk                          average response time: 2203  ms 
+bmj.com                                  average response time: 1547  ms 
+m.me                                     average response time: X 
+imgur.com                                average response time: 1766  ms 
+trustpilot.com                           average response time: 1672  ms 
+fifa.com                                 average response time: X 
+euronews.com                             average response time: 1813  ms 
+investopedia.com                         average response time: 1578  ms 
+hollywoodreporter.com                    average response time: 2875  ms 
+ebay.de                                  average response time: 1672  ms 
+apnews.com                               average response time: X 
+nl.wikipedia.org                         average response time: 2516  ms 
+upenn.edu                                average response time: 2281  ms 
+tes.com                                  average response time: X 
+sina.com.cn                              average response time: 2844  ms 
+newscientist.com                         average response time: 1625  ms 
+softonic.com                             average response time: X 
+ign.com                                  average response time: X 
+goal.com                                 average response time: 2969  ms 
+utexas.edu                               average response time: 1125  ms 
+boston.com                               average response time: 1688  ms 
+ameba.jp                                 average response time: X 
+impress.co.jp                            average response time: X 
+nba.com                                  average response time: X 
+scmp.com                                 average response time: 1281  ms 
+calameo.com                              average response time: X 
+go.co                                    average response time: 2266  ms 
+depositfiles.com                         average response time: X 
+video.google.com                         average response time: 1750  ms 
+marriott.com                             average response time: 985  ms 
+reddit.com                               average response time: X 
+stackoverflow.com                        average response time: 891  ms 
+sec.gov                                  average response time: 2688  ms 
+ucla.edu                                 average response time: 2266  ms 
+lifehacker.com                           average response time: 1844  ms 
+flickr.com                               average response time: 2281  ms 
+answers.com                              average response time: 2547  ms 
+usda.gov                                 average response time: X 
+tabelog.com                              average response time: X 
+mynavi.jp                                average response time: X 
+blog.google                              average response time: 1891  ms 
+scoop.it                                 average response time: 1172  ms 
+digitaltrends.com                        average response time: 1016  ms 
+zdnet.com                                average response time: 1344  ms 
+box.com                                  average response time: 2766  ms 
+nps.gov                                  average response time: 2860  ms 
+mdpi.com                                 average response time: X 
+joomla.org                               average response time: 2735  ms 
+people.com                               average response time: 2906  ms 
+stores.jp                                average response time: X 
+lenta.ru                                 average response time: 2766  ms 
+python.org                               average response time: 703  ms 
+bp0.blogger.com                          average response time: 422  ms 
+nifty.com                                average response time: X 
+thedailybeast.com                        average response time: 1750  ms 
+nhk.or.jp                                average response time: X 
+lego.com                                 average response time: X 
+foursquare.com                           average response time: 813  ms 
+esa.int                                  average response time: X 
+privacy.google.com                       average response time: 2547  ms 
+standard.co.uk                           average response time: X 
